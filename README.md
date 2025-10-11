@@ -109,6 +109,8 @@ A detailed summary is documented in a Word report that covers every step from st
 
 - Future Work
 
+- [Report Link](https://docs.google.com/document/d/1h9QRNWmmeJNg_wGxyCTA1L-ZjDDXgCFvMcKO-lZ5kik/edit?usp=sharing) 
+
 ---
 
 ## 📞 Contact
