@@ -111,9 +111,19 @@ A detailed summary is documented in a Word report that covers every step from st
 
 ---
 
+## 📞 Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+- **Email:** shivharebhupendra0@gmail.com  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b/)
+
+---
+
 ## ✍️ Author
 
 Bhupendra Shivhare
+
 Data Analyst | Aspiring Data Scientist
 
 
